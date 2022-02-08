@@ -1,0 +1,15 @@
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\bin\Debug\net6.0\console-programming.exe
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\bin\Debug\net6.0\console-programming.deps.json
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\bin\Debug\net6.0\console-programming.runtimeconfig.json
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\bin\Debug\net6.0\console-programming.dll
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\bin\Debug\net6.0\ref\console-programming.dll
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\bin\Debug\net6.0\console-programming.pdb
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\obj\Debug\net6.0\console-programming.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\obj\Debug\net6.0\console-programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\obj\Debug\net6.0\console-programming.AssemblyInfoInputs.cache
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\obj\Debug\net6.0\console-programming.AssemblyInfo.cs
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\obj\Debug\net6.0\console-programming.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\obj\Debug\net6.0\console-programming.dll
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\obj\Debug\net6.0\ref\console-programming.dll
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\obj\Debug\net6.0\console-programming.pdb
+C:\Users\Sefa\Desktop\.Net Core Patikası\console-programming\obj\Debug\net6.0\console-programming.genruntimeconfig.cache
